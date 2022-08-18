@@ -23,6 +23,16 @@ The project assessed the extended technique on the emergency department of the T
 # Repository structure
 The data analyzed in the experiments are private and can not be published. 
 
-- 
-- 
--
+## Validation of the start timestamp estimation technique 
+
+- SimulationColombia.py: it creates the BPSim file with all the necessary parameters to run the appropriate simulation for the Student credential recognition case study.
+- SimulationPurchasing.py: it creates the BPSim file with all the necessary parameters to run the appropriate simulation for the Purchasing case study.
+- FitDistribution.py: it computes the distributions of the case and waiting time durations.
+- alpha_configuration_generalization.py: it enriches the event log with the start timestamps derived by the chosen alpha parameters and computes the final error.
+
+
+## Emergency Department Case Study
+
+- simulationPisa.py: it creates the BPSim file with all the necessary parameters to run the appropriate simulation for the Emergency Department case study.
+- FitDistribution.py: it computes the distributions of the case and waiting time durations.
+- alpha_configuration_generalization.py: it enriches the event log with the start timestamps derived by the chosen alpha parameters and computes the final error.
