@@ -1,3 +1,5 @@
+# Introduction
+
 This repository contains the code developed for the Data Science MSc thesis at Università degli studi of Padua.
 
 Author: ***Marco Francesco Sommaruga***
@@ -17,3 +19,7 @@ This project aims to create emergency-department simulation models on the basis 
 The quality of the extracted logs greatly influences the analysis that can be carried out. For example, to tackle the reduction of waiting times for patients and to optimize the resources, two of the most critical emergency-department challenges, it is necessary that the data report when each activity has started and completed, and how hospital staff participated to the exe- cution of each activity. Unfortunately, the event logs extracted from the information systems of the Tuscany’s hospital missed relevant information, including the timestamps when activity started, thus diminishing the realism of the business simulation model.
 To overtake this issue, the project extended a previous technique to estimate the missing timestamps of when the activities started, and overtook some of its limitations.
 The project assessed the extended technique on the emergency department of the Tuscany’s hospital, and has shown on this case study how healthcare can leverage on process mining to simulate different ’what-if’ scenarios, on the basis of which decisions can be made on how to improve real processes.*
+
+
+# Repository structure
+
