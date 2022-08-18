@@ -23,7 +23,13 @@ The project assessed the extended technique on the emergency department of the T
 # Repository structure
 The data analyzed in the experiments are private and can not be published. 
 
+## Dissertation
+- Thesis.pdf: final dissertation.
+- Presentation.pdf: presentation for the discussion.
+
 ## Validation of the start timestamp estimation technique 
+
+The following files can be found in the directory: Simulation-of-Healthcare-Processes-Challenges-Solutions-and-Benefits/Start Timestamp Technique Validation/
 
 - SimulationColombia.py: it creates the BPSim file with all the necessary parameters to run the appropriate simulation for the Student credential recognition case study.
 - SimulationPurchasing.py: it creates the BPSim file with all the necessary parameters to run the appropriate simulation for the Purchasing case study.
@@ -32,6 +38,8 @@ The data analyzed in the experiments are private and can not be published.
 
 
 ## Emergency Department Case Study
+
+The following files can be found in the directory: Simulation-of-Healthcare-Processes-Challenges-Solutions-and-Benefits/Emergency Department Case Study/
 
 - simulationPisa.py: it creates the BPSim file with all the necessary parameters to run the appropriate simulation for the Emergency Department case study.
 - FitDistribution.py: it computes the distributions of the case and waiting time durations.
